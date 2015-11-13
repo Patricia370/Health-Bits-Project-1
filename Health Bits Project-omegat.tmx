@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Continued from first page)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130841Z" creationid="Patry" creationdate="20151113T130841Z">
+        <seg>(Continuación de la primera página)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Continued on next page)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130421Z" creationid="Patry" creationdate="20151113T130421Z">
+        <seg>(Continúa en la siguiente página)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 • Issue 9</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125456Z" creationid="Patry" creationdate="20151113T125456Z">
+        <seg>4 • Número 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A deli luncheon will be served.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130534Z" creationid="Patry" creationdate="20151113T130529Z">
+        <seg>Habrá comida para los invitados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A repetitive strain injury (RSI) is an injury or disorder of the joints, nerves, muscles, ligaments or tendons.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125936Z" creationid="Patry" creationdate="20151113T125936Z">
+        <seg>Una lesión por trabajo repetitivo (LTR) es una lesión o trastorno de los tendones, nervios, ligamentos o músculos..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another type of health-related &lt;t0/&gt;c&lt;t1/&gt;ondition due to computer use is computer vision syndrome (CVS).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131326Z" creationid="Patry" creationdate="20151113T131326Z">
+        <seg>Otro tipo de lesión &lt;t0/&gt;&lt;t1/&gt;relacionada con el uso de ordenadores es el síndrome de visión de ordenador (SVO)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beginning May 1, Health Bits Group members are entitled to a 10 percent discount on regular price products at these stores: Office Warehouse, Simply Nutrition, and The Sports Center.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130725Z" creationid="Patry" creationdate="20151113T130725Z">
+        <seg>A partir del 1 de mayo, los miembros de Health Bits tendrán derecho a un 10% de descuento sobre los precios regulares de los productor de Office Warehouse, Cimply Nutrition, y The Sports Center.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS is not believed to have &lt;t2/&gt;serious or long-term consequences.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131439Z" creationid="Patry" creationdate="20151113T131439Z">
+        <seg>No se conoce que este síndrome &lt;t2/&gt;pueda tener consecuencias a largo plazo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carpal tunnel syndrome (CTS) is inflammation of the nerve that connects the forearm to the palm of the hand.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130131Z" creationid="Patry" creationdate="20151113T130131Z">
+        <seg>El síndrome del túnel carpiano es una inflamación del nervio que conecta el brazo con la palma de la mano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common symptoms linked to tendonitis of the wrist include extreme pain that extends from the forearm to the hand, along with a tingling feeling in the fingers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130313Z" creationid="Patry" creationdate="20151113T130313Z">
+        <seg>Los síntomas comunes ligados a la tendonitis en la muñeca incluyen dolor agudo que se extiende por el brazo, así como adormecimiento en los dedos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer users should be proactive and minimize their chance of health complications.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125835Z" creationid="Patry" creationdate="20151113T125835Z">
+        <seg>Los usuarios de ordenador puede prevenir y reducir las posibilidades de sufrir complicaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer-related RSIs include tendonitis and carpal tunnel syndrome.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130049Z" creationid="Patry" creationdate="20151113T130049Z">
+        <seg>Las LTR causadas por el ordenador incluyen tendonitis y síndrome del túner carpiano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ergonomics is an applied science devoted to including comfort, efficiency, and safety in the design of the workplace.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131623Z" creationid="Patry" creationdate="20151113T131623Z">
+        <seg>La ergonomía es una ciencia aplicada dedicada a asegurar la comodidad, eficiencia y seguridad en el diseño del lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, &lt;t1/&gt;minimize the number of times you switch between the mouse and the &lt;t2/&gt;k&lt;t3/&gt;eyboard, and avoid using the heel of your hand as a pivot point while typing or using the mouse.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131244Z" creationid="Patry" creationdate="20151113T131244Z">
+        <seg>Finalmente, &lt;t1/&gt;reduce el número de veces que cambias entre ratón y teclado &lt;t2/&gt;&lt;t3/&gt;, y evita emplear la mano como punto de apoyo mientras realizas alguna tarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the computer area, experts recommend a workspace of&lt;t3/&gt; at least two feet by four feet.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131730Z" creationid="Patry" creationdate="20151113T131730Z">
+        <seg>En cuanto al área de trabajo,&lt;t3/&gt; se recomienda que tenga entre dos y cuatro pies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GROUP MEETING</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130427Z" creationid="Patry" creationdate="20151113T130427Z">
+        <seg>REUNIÓN DE GRUPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health Concerns Related to Computer Use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125552Z" creationid="Patry" creationdate="20151113T125552Z">
+        <seg>Problemas de salud relacionados con el uso de ordenadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If untreated, these disorders can lead to permanent damage to your body.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130922Z" creationid="Patry" creationdate="20151113T130922Z">
+        <seg>Si no se trata, estos trastornos pueden derivar en lesiones permanentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this position, your wrist is flat on the desk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131057Z" creationid="Patry" creationdate="20151113T131057Z">
+        <seg>De forma que la muñeca quede plana sobre el escritorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Long-term computer work can lead to tendonitis or CTS.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130908Z" creationid="Patry" creationdate="20151113T130908Z">
+        <seg>El trabajo a largo plazo con ordenadores puede derivar en tendonitis o STC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MEMBER DISCOUNTS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130612Z" creationid="Patry" creationdate="20151113T130612Z">
+        <seg>DESCUENTOS PARA MIEMBROS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monthly Newsletter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125448Z" creationid="Patry" creationdate="20151113T125448Z">
+        <seg>Boletín mensual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEXT ISSUE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130755Z" creationid="Patry" creationdate="20151113T130755Z">
+        <seg>PRÓXIMO NÚMERO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next month’s issue of Health Bits will discuss hay fever and other pollen-related allergies.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130826Z" creationid="Patry" creationdate="20151113T130826Z">
+        <seg>El número del mes que viene tratará de la fiebre del heno y de otras alergias relacionadas con el polen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OSHA (Occupational Safety and Health Administration) has guidelines designed to minimize or prevent workplace injuries with respect to computer usage.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130027Z" creationid="Patry" creationdate="20151113T130027Z">
+        <seg>OSHA (Occupational Safety and Health Administration) tiene manuales diseñados con el fin de atenuar o prevenir estas lesiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One way to help prevent these injuries is to be sure the workplace is designed ergonomically.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131553Z" creationid="Patry" creationdate="20151113T131553Z">
+        <seg>Una forma de prevenir estas lesiones es asegurar que el lugar de trabajo está diseñado ergonómicamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P&lt;t0/&gt;eople who spend entire days using a computer sometimes complain of lower back pain and muscle fatigue.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131514Z" creationid="Patry" creationdate="20151113T131514Z">
+        <seg>&lt;t0/&gt;La gente que se pasa días completos utilizando el ordenador a veces padece dolor de espalda y fatiga muscular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RSIs are the largest job related injury and illness problem in the U.S.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125722Z" creationid="Patry" creationdate="20151113T125722Z">
+        <seg>Las LTR son las lesiones por trabajo más extendidas en EEUU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RSIs are the largest job-related injury and illness problem in the U.S.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125959Z" creationid="Patry" creationdate="20151113T125959Z">
+        <seg>Las LTR son las lesiones por trabajo más extendidas en EEUU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeated and/or fo&lt;t0/&gt;rceful bending of the wrist can &lt;t1/&gt;cause tendonitis or CTS.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130215Z" creationid="Patry" creationdate="20151113T130215Z">
+        <seg>Los movimientos repetitivos o fo&lt;t0/&gt;rzados de la muñeca pueden &lt;t1/&gt;causar tendonitis o STC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some symptoms of CTS include numbness and tingling in the thumb and first two fingers, and a burning pain when the nerve is compressed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130411Z" creationid="Patry" creationdate="20151113T130411Z">
+        <seg>Algunos síntomas del STC incluyen adormecimiento en los dedos, exceptuando el meñique y el anular, y dolor cuando se comprime el nervio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Studies have shown that using the correct configuration and type of chair, keyboard, display device, and work surface helps users work comfortably and efficiently and helps protect their health.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131705Z" creationid="Patry" creationdate="20151113T131705Z">
+        <seg>Los estudios han demostrado que utilizar la correcta configuración y tipo de silla, teclado, pantalla y superficie de trabajo ayuda a los usuarios a trabajar de forma cómoda y eficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125747Z" creationid="Patry" creationdate="20151113T125557Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take frequent breaks to exercise your hands.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130950Z" creationid="Patry" creationdate="20151113T130950Z">
+        <seg>Haz descansos frecuentes para ejercitar las manos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tendonitis is inflammation of a tendon due to repeated motion or stress on that tendon.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130107Z" creationid="Patry" creationdate="20151113T130107Z">
+        <seg>La tendonitis es una inflamación del tendón causada por movimientos repetitivos o estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The back &lt;t1/&gt;p&lt;t2/&gt;ain sometimes is caused from poor posture.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131532Z" creationid="Patry" creationdate="20151113T131532Z">
+        <seg>La espalda &lt;t1/&gt;&lt;t2/&gt;a veces duele debido a una mala postura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The guest speaker, Sean Riverton, will discuss how to keep our environment healthy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130602Z" creationid="Patry" creationdate="20151113T130602Z">
+        <seg>El ponente invitado, Sean Riverton, hablará sobre cómo mantener nuestro medioambiente sano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next meeting of the Health Bits Group will be held on Saturday, May 17, at the Glenview Recreation Center (440 Cedar Street) from 11:30 a.m. to 3:00 p.m.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130521Z" creationid="Patry" creationdate="20151113T130521Z">
+        <seg>La siguiente reunión del grupo Health Bits tendrá lugar el sábado 17 de mayo, en el centro Glenview Recreation de 11:30 a.m. to 3:00 p.m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This article discusses computer health risks and preventions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125856Z" creationid="Patry" creationdate="20151113T125856Z">
+        <seg>Este artículo trata de los problemas de salud que causan los ordenadores y cómo prevenirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To prevent injury due to typing, place a wrist rest between the keyboard and the edge of your desk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131014Z" creationid="Patry" creationdate="20151113T131014Z">
+        <seg>Para prevenir lesiones causadas por escribir a ordenador, coloca la muñeca entre el teclado y el borde del escritorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To prevent injury while using a mouse, place the mouse at least six inches from</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131035Z" creationid="Patry" creationdate="20151113T131035Z">
+        <seg>Para prevenir lesiones por el uso del ratón, coloca el mismo a al menos seis pulgadas de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To receive the discount, show your Health Bits Group membership card at the time of purchase.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130747Z" creationid="Patry" creationdate="20151113T130747Z">
+        <seg>Para recibir el descuento, muestra tu tarjeta de membresía en el momento de la compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take many precautions to prevent these types of injuries.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T130939Z" creationid="Patry" creationdate="20151113T130939Z">
+        <seg>Puedes tomar muchas precaciones para prevenir estas lesiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may have CVS if you have sore, tired, burning, itching, or dry eyes; headache or sore neck; blurred or double vision; increased sensitivity to light; and difficulty focusing.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131418Z" creationid="Patry" creationdate="20151113T131344Z">
+        <seg>Puedes padecerlo si tienes dolor, cansancio, escozor, picor, ojos secos; dolor de cabella o cuello; visión nublada o doble; hipersensibilidad a la luz y dificultad para enfocar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>he&lt;t0/&gt; widespread use of computers has been causing health concerns.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125807Z" creationid="Patry" creationdate="20151113T125742Z">
+        <seg>l&lt;t0/&gt; uso prolongado de ordenadores ha causado problemas de salud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; edge of the desk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T131045Z" creationid="Patry" creationdate="20151113T131045Z">
+        <seg>&lt;t0/&gt; el borde de la mesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>today.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151113T125732Z" creationid="Patry" creationdate="20151113T125732Z">
+        <seg>hoy en día.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

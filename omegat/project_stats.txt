@@ -1,0 +1,14 @@
+13/11/15 14:25
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (incluyendo espacios)	#Files	
+Total:            	       54	     635	                     3202	                            3776	     1	
+Pendientes:       	       54	     635	                     3202	                            3776	     1	
+Únicos:           	       49	     622	                     3133	                            3698	     1	
+Pendientes únicos:	       49	     622	                     3133	                            3698	     1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo          	Total segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Palabras en total	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Caracteres en total (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Caracteres en total (incluyendo espacios)	Caracteres pendientes (incluyendo espacios)	Caracteres únicos (incluyendo espacios)	Caracteres únicos pendientes (incluyendo espacios)	
+Health Bits Newsletter.docx	             54	                  54	              49	                         49	              635	                635	            622	                       622	                              3202	                                3202	                            3133	                                       3133	                                     3776	                                       3776	                                   3698	                                              3698	
