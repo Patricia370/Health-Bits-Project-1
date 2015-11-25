@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Continued from first page)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104928Z" creationid="Blancaa" creationdate="20151125T104928Z">
+        <seg>(viene de la página anterior)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Continued on next page)</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T104312Z" creationid="Blancaa" creationdate="20151125T104312Z">
@@ -94,6 +102,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If untreated, these disorders can lead to permanent damage to your body.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T105021Z" creationid="Blancaa" creationdate="20151125T105021Z">
+        <seg>Si no se tratan,e stas lesiones pueden provocar daños permanentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Long-term computer work can lead to tendonitis or CTS.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104955Z" creationid="Blancaa" creationdate="20151125T104955Z">
+        <seg>A largo plazo el uso del ordenador puede causar tendinitis o STC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MEMBER DISCOUNTS</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T104456Z" creationid="Blancaa" creationdate="20151125T104456Z">
@@ -174,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take frequent breaks to exercise your hands.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T105052Z" creationid="Blancaa" creationdate="20151125T105052Z">
+        <seg>Haz descansos frecuentes para ejercitar las manos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tendonitis is inflammation of a tendon due to repeated motion or stress on that tendon.</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T103921Z" creationid="Blancaa" creationdate="20151125T103921Z">
@@ -206,10 +238,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To prevent injury due to typing, place a wrist rest between the keyboard and the edge of your desk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T105134Z" creationid="Blancaa" creationdate="20151125T105134Z">
+        <seg>Para evitar lesiones por el uso del teclado, coloca un apoyo para la muñeca entre el teclado y el borde de la mesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To prevent injury while using a mouse, place the mouse at least six inches from</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T105203Z" creationid="Blancaa" creationdate="20151125T105203Z">
+        <seg>Para evitar lesiones por el uso del ratón, colocalo a al menos quince centímetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To receive the discount, show your Health Bits Group membership card at the time of purchase.</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T104823Z" creationid="Blancaa" creationdate="20151125T104823Z">
         <seg>Para recibir el descuento, muestre su tarjeta del grupo Health Bits al realizar su compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can take many precautions to prevent these types of injuries.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T105039Z" creationid="Blancaa" creationdate="20151125T105039Z">
+        <seg>Se pueden tomar muchas precauciones para evitar este tipo de lesiones.</seg>
       </tuv>
     </tu>
     <tu>
