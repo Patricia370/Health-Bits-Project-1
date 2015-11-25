@@ -102,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ergonomics is an applied science devoted to including comfort, efficiency, and safety in the design of the workplace.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T105900Z" creationid="Blancaa" creationdate="20151125T105900Z">
+        <seg>La ergonomía es una ciencia aplicada que se dedica a buscar el confort, la eficiencia y la seguridad en el diseño de los lugares de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, &lt;t1/&gt;minimize the number of times you switch between the mouse and the &lt;t2/&gt;k&lt;t3/&gt;eyboard, and avoid using the heel of your hand as a pivot point while typing or using the mouse.</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T105350Z" creationid="Blancaa" creationdate="20151125T105350Z">
         <seg>Por último, &lt;t1/&gt;minimiza el número de veces que cambias del ratón al&lt;t2/&gt;t&lt;t3/&gt;teclado, y evita apoyarte en la base de la mano al girarla mientras escribes o usas el ratón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the computer area, experts recommend a workspace of&lt;t3/&gt; at least two feet by four feet.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T110042Z" creationid="Blancaa" creationdate="20151125T110042Z">
+        <seg>Para la zona del ordenador, los expertos recomiendas un espacio de trabajo de&lt;t3/&gt; al menos 40x80 cm..</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +250,14 @@
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T104301Z" creationid="Blancaa" creationdate="20151125T104301Z">
         <seg>Algunos síntomas de STC incluyen falta de sensibilidad y hormigueo en el pulgar y los dos primeros dedos, y un dolor intenso cuando se presiona el nervio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Studies have shown that using the correct configuration and type of chair, keyboard, display device, and work surface helps users work comfortably and efficiently and helps protect their health.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T110000Z" creationid="Blancaa" creationdate="20151125T110000Z">
+        <seg>Hay estudios que demuestran que utilizar la configuración y tipo de silla, teclado, pantalla y superficie de trabajo correctos ayuda a los usuarios a trabajar de forma cómoda y eficiente y ayuda a proteger su salud.</seg>
       </tuv>
     </tu>
     <tu>
