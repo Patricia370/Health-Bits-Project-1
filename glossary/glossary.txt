@@ -1,2 +1,3 @@
 Newsletter	Boletín
 Carpal tunnel syndrom	Síndrome del túnel carpiano	(CTS) = (STC)
+computer vision syndrome	síndrome informático de visión
