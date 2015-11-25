@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Continued on next page)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104312Z" creationid="Blancaa" creationdate="20151125T104312Z">
+        <seg>(continúa en la página siguiente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 • Issue 9</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T102919Z" creationid="Blancaa" creationdate="20151125T102919Z">
         <seg>4 • Número 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A deli luncheon will be served.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104419Z" creationid="Blancaa" creationdate="20151125T104419Z">
+        <seg>Se servirá un almuerzo de degustación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GROUP MEETING</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104319Z" creationid="Blancaa" creationdate="20151125T104319Z">
+        <seg>REUNIÓN DEL GRUPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Health Concerns Related to Computer Use</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T102937Z" creationid="Blancaa" creationdate="20151125T102937Z">
         <seg>Problemas de salud relacionados con el uso del ordenador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MEMBER DISCOUNTS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104456Z" creationid="Blancaa" creationdate="20151125T104456Z">
+        <seg>DESCUENTOS PARA MIEMBROS</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some symptoms of CTS include numbness and tingling in the thumb and first two fingers, and a burning pain when the nerve is compressed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104301Z" creationid="Blancaa" creationdate="20151125T104301Z">
+        <seg>Algunos síntomas de STC incluyen falta de sensibilidad y hormigueo en el pulgar y los dos primeros dedos, y un dolor intenso cuando se presiona el nervio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T102940Z" creationid="Blancaa" creationdate="20151125T102940Z">
@@ -114,6 +154,22 @@
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T103921Z" creationid="Blancaa" creationdate="20151125T103921Z">
         <seg>La tendinitis es una inflamación de un tendón debido a un movimiento repetido o presión sobre el mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The guest speaker, Sean Riverton, will discuss how to keep our environment healthy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104449Z" creationid="Blancaa" creationdate="20151125T104449Z">
+        <seg>El orador invitado, Sean Riverton, hablará sobre como podemos mantener un ambiente saludable a nuestro alrededor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next meeting of the Health Bits Group will be held on Saturday, May 17, at the Glenview Recreation Center (440 Cedar Street) from 11:30 a.m. to 3:00 p.m.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104409Z" creationid="Blancaa" creationdate="20151125T104409Z">
+        <seg>La próxima reunión del grupo Health Bits se celebrará el domingo, 17 de marzo en el centro recreativo Glenview de 11:30 a 15.</seg>
       </tuv>
     </tu>
     <tu>
