@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beginning May 1, Health Bits Group members are entitled to a 10 percent discount on regular price products at these stores: Office Warehouse, Simply Nutrition, and The Sports Center.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104600Z" creationid="Blancaa" creationdate="20151125T104600Z">
+        <seg>A partir del 1 de mayo, los miembros del grupo Health Bits tendrán derecho a un 10% de descuento en los productos de precio normal en las siguientes tiendas: Office Warehouse, Simply Nutrition y The Sports Center.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carpal tunnel syndrome (CTS) is inflammation of the nerve that connects the forearm to the palm of the hand.</seg>
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T104050Z" creationid="Blancaa" creationdate="20151125T104050Z">
@@ -98,6 +106,22 @@
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T102913Z" creationid="Blancaa" creationdate="20151125T102913Z">
         <seg>Boletín mensual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEXT ISSUE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104832Z" creationid="Blancaa" creationdate="20151125T104832Z">
+        <seg>Próximo número</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next month’s issue of Health Bits will discuss hay fever and other pollen-related allergies.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104901Z" creationid="Blancaa" creationdate="20151125T104901Z">
+        <seg>En el número del mes que viene de Health Bits hablaremos sobre la fiebre del heno y otras alegrias relacionadas con el polen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +202,14 @@
       </tuv>
       <tuv lang="ES" changeid="Blancaa" changedate="20151125T103632Z" creationid="Blancaa" creationdate="20151125T103632Z">
         <seg>En este artículo se tratan los riesgos de salud relacionados con el ordenador y cómo prevenirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To receive the discount, show your Health Bits Group membership card at the time of purchase.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Blancaa" changedate="20151125T104823Z" creationid="Blancaa" creationdate="20151125T104823Z">
+        <seg>Para recibir el descuento, muestre su tarjeta del grupo Health Bits al realizar su compra.</seg>
       </tuv>
     </tu>
     <tu>
